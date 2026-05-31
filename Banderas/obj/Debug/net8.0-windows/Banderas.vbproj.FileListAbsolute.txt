@@ -1,0 +1,16 @@
+C:\Users\CF\source\repos\Banderas\Banderas\bin\Debug\net8.0-windows\Banderas.exe
+C:\Users\CF\source\repos\Banderas\Banderas\bin\Debug\net8.0-windows\Banderas.deps.json
+C:\Users\CF\source\repos\Banderas\Banderas\bin\Debug\net8.0-windows\Banderas.runtimeconfig.json
+C:\Users\CF\source\repos\Banderas\Banderas\bin\Debug\net8.0-windows\Banderas.dll
+C:\Users\CF\source\repos\Banderas\Banderas\bin\Debug\net8.0-windows\Banderas.pdb
+C:\Users\CF\source\repos\Banderas\Banderas\obj\Debug\net8.0-windows\Banderas.Form1.resources
+C:\Users\CF\source\repos\Banderas\Banderas\obj\Debug\net8.0-windows\Banderas.vbproj.GenerateResource.cache
+C:\Users\CF\source\repos\Banderas\Banderas\obj\Debug\net8.0-windows\Banderas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CF\source\repos\Banderas\Banderas\obj\Debug\net8.0-windows\Banderas.AssemblyInfoInputs.cache
+C:\Users\CF\source\repos\Banderas\Banderas\obj\Debug\net8.0-windows\Banderas.AssemblyInfo.vb
+C:\Users\CF\source\repos\Banderas\Banderas\obj\Debug\net8.0-windows\Banderas.vbproj.CoreCompileInputs.cache
+C:\Users\CF\source\repos\Banderas\Banderas\obj\Debug\net8.0-windows\Banderas.dll
+C:\Users\CF\source\repos\Banderas\Banderas\obj\Debug\net8.0-windows\refint\Banderas.dll
+C:\Users\CF\source\repos\Banderas\Banderas\obj\Debug\net8.0-windows\Banderas.pdb
+C:\Users\CF\source\repos\Banderas\Banderas\obj\Debug\net8.0-windows\Banderas.genruntimeconfig.cache
+C:\Users\CF\source\repos\Banderas\Banderas\obj\Debug\net8.0-windows\ref\Banderas.dll
