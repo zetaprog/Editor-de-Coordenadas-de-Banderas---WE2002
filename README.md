@@ -18,7 +18,7 @@ This tool loads a game's binary file, parses flag coordinate structures, and ren
 
 ## 🚀 Usage
 1. **Launch** the application.
-2. Click **Load** and select your game file.
+2. Click **Load** and select your game file (.BIN).
 3. **Drag flags** to the desired positions within the white bounding box.
    - Use the **white rectangle** as the menu boundary.
    - The **green dashed line** represents `Y = 0` (bottom of the menu).
